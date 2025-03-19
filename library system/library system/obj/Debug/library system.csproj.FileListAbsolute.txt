@@ -1,0 +1,7 @@
+C:\Users\ENG_Aisha\source\repos\library system\library system\bin\Debug\library system.exe.config
+C:\Users\ENG_Aisha\source\repos\library system\library system\bin\Debug\library system.exe
+C:\Users\ENG_Aisha\source\repos\library system\library system\bin\Debug\library system.pdb
+C:\Users\ENG_Aisha\source\repos\library system\library system\obj\Debug\library system.csproj.AssemblyReference.cache
+C:\Users\ENG_Aisha\source\repos\library system\library system\obj\Debug\library system.csproj.CoreCompileInputs.cache
+C:\Users\ENG_Aisha\source\repos\library system\library system\obj\Debug\library system.exe
+C:\Users\ENG_Aisha\source\repos\library system\library system\obj\Debug\library system.pdb
